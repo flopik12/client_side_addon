@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"title"		"Pirate Protection - Client Side"
+	"type"		"tool"
+	"tags"		""
+	"ignore"	"0"
+}
+
+
